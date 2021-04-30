@@ -1,3 +1,2 @@
 #hola-mundo
-
-Comienzo del proyecto! 
+Zona de pruebas del proyecto!
